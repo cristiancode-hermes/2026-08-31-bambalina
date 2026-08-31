@@ -1,0 +1,7 @@
+QA testing complete for 2026-08-31
+Project: bambalina
+Build: ✅ API tsc + Angular 22 production
+Tests: 20/20 passing (Jest) · smoke 28/28 · browser 24/24
+New tests: existing coverage adequate (20 cases in bambalina.spec.ts)
+Issues: 0 grave
+Published: ✅ Caddy (bambalina.proyectos.cristiancode.dev :3080), ✅ Portfolio (es.ts+en.ts+pt.ts), ✅ Landing, ✅ Excel, ✅ GitHub
